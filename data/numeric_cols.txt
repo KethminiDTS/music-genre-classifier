@@ -1,0 +1,12 @@
+danceability
+loudness
+acousticness
+instrumentalness
+valence
+energy
+dating
+violence
+obscene
+sadness
+feelings
+romantic

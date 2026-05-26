@@ -1,0 +1,8 @@
+pop
+rock
+country
+blues
+reggae
+jazz
+hip hop
+dance
