@@ -9,7 +9,7 @@ A web app that predicts music genre from lyrics using **PySpark** and **Flask**.
 
 
 
-## Author: Kethmini Rupasinghe
+##### Author: Kethmini Rupasinghe
 
 ## How to Run
 
